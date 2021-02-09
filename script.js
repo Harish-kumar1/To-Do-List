@@ -1,7 +1,7 @@
 function disp()
 {
  var a = document.getElementById("value").value;
- document.getElementById("output").innerHTML = a;
+ document.getElementById("output").innerHTML = "1. " + a;
 }
 
 function clearing()
